@@ -1,0 +1,4 @@
+Matrícula: 2335, Nombre: leo, Status: activo
+Matrícula: 201, Nombre: lol, Status: inactivo
+Matrícula: 2011, Nombre: leo, Status: activo
+Matrícula: 203, Nombre: la, Status: baja temporal

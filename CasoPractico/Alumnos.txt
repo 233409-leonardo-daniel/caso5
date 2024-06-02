@@ -1,0 +1,9 @@
+Matrícula: 201345, Nombre: diana, Status: inactivo
+Matrícula: 233333, Nombre: ana, Status: activo
+Matrícula: 231000, Nombre: juan, Status: activo
+Matrícula: 233, Nombre: leo, Status: activo
+Matrícula: 201234, Nombre: ana, Status: activo
+Matrícula: 213456, Nombre: ana, Status: inactivo
+Matrícula: 201000, Nombre: juan, Status: egresado
+Matrícula: 233333, Nombre: diana, Status: egresado
+Matrícula: 223890, Nombre: saul, Status: inactivo

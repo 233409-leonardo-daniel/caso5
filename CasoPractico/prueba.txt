@@ -1,0 +1,7 @@
+Matrícula: 233, Nombre: leo
+Matrícula: 221, Nombre: juan
+Matrícula: 2334, Nombre: romi
+Matrícula: 23340, Nombre: leo
+Matrícula: 20143, Nombre: riomi
+Matrícula: 23304, Nombre: 2334, Status: activo
+Matrícula: 2013, Nombre: leo, Status: inactivo
